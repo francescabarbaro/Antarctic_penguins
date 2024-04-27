@@ -19,4 +19,4 @@ Creators:
 * Roberto Carminati
 
 Grade recived: 1/1  
-on a scale from 1 to 5, where 1 in the maximun value and 5 the minimum.
+on a scale from 1 to 5, where 1 is the maximun value and 5 the minimum.
