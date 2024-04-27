@@ -10,7 +10,7 @@ Moreover, inside the R file, near the title of the models there is a "YES" or a 
 The principal three models are "Separate2.stan", "Hierarchical1.stan" and "AllSeparate_nointer_nosexwidth.stan".
 
 
-You also find the complete report
+You also find the complete report: Report_gaussian_linear_models
 
 
 Creators: 
